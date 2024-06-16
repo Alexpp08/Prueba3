@@ -1,0 +1,15 @@
+table, th, td  {
+    align-self: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+.fondo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 10px black;
+}
+body{
+    background-color: burlywood;
+}
